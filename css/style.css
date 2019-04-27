@@ -1,0 +1,29 @@
+*,body {
+        font-family: "Lucida Console", Monaco, monospace;
+        position: relative;
+    }
+
+    .pad-content {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .pad-navbar {
+        padding-top: 80px;
+        padding-bottom: 70px;
+    }
+
+    .active {
+        border-bottom: 3px solid orangered;
+    }
+
+    .oren {
+        color: orangered;
+    }
+
+    .border-img {
+        border-right: 3px solid orangered;
+    }
+    .border-skil{
+        border-left: 3px solid orangered;
+    }
